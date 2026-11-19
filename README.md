@@ -2,6 +2,17 @@
 
 Dashboard interativo de produtividade e acompanhamento de estudos para disciplinas da faculdade, estudos de Python e lógica de programação, construído em Dark Mode moderno.
 
+## Preview da Interface
+
+### Visão Geral e Comparativo Semanal
+![Visão geral do dashboard StudyFlow](./docs/screenshots/dashboard-overview.png)
+
+### Trilhas de Estudo, Checklists e Pomodoro Integrado
+![Trilhas de estudo, checklists de tópicos e ciclo Pomodoro concluído](./docs/screenshots/study-tracks-pomodoro.png)
+
+### Cadastro de Disciplina / Trilha
+![Modal de criação de nova disciplina](./docs/screenshots/new-subject-modal.png)
+
 ## Funcionalidades
 
 - **Gestão de Trilhas e Matérias:** Cadastro e edição de disciplinas com categoria (`Faculdade`, `Python`, `Lógica & Algoritmos`, `Outros`), cor de destaque e meta semanal de horas.
